@@ -1,0 +1,2 @@
+file '/home/node/.n8n-files/temp_main.mp4'
+file '/home/node/.n8n-files/temp_branding.mp4'
